@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lchambers6/bamazon.git"
+    "url": "git+https://github.com/salter2014/bamazon.git"
   },
-  "author": "Luke",
+  "author": "Jessica",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lchambers6/bamazon/issues"
+    "url": "https://github.com/salter2014/bamazon/issues"
   },
-  "homepage": "https://github.com/lchambers6/bamazon#readme",
+  "homepage": "https://github.com/salter2014/bamazon#readme",
   "dependencies": {
     "mysql": "^2.14.0",
     "inquirer": "^3.1.1"
